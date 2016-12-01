@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ZOBS</string>
+
+    <string name="search_title">Pretraga</string>
+    <string name="search_hint">Unesite traženu reč</string>
+
+    <string name="login_title">Z O B S</string>
+    <string name="email">EMAIL</string>
+    <string name="password">LOZINKA</string>
+    <string name="forgot_pass"><u>Zaboravljena lozinka?</u></string>
+    <string name="login">Prijava</string>
+    <string name="not_a_member">Niste registrovani?</string>
+    <string name="registration"><u>Registrujte se</u></string>
+
+    <string name="fullname">VAŠE IME</string>
+    <string name="repeat_password">PONOVITE LOZINKU</string>
+    <string name="register">Registruj</string>
+
+    <string name="send_me_reset_instructions">Pošalji nova podešavanja</string>
+    <string name="forgot_instructions">Unesite email adresu na koju će Vam biti poslat kod za novo podešavanje...</string>
+
+    <string name="change_code">DOBIJENI KOD</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="chpass_instructions">Unesite primljeni kod i novu lozinku a zatim potvrdite.</string>
+    <string name="hint_code">Unesite kod dobijen na email</string>
+
+
+    <string name="hint_email">Unesite email</string>
+    <string name="hint_password">Unesite lozinku</string>
+    <string name="hint_fullname">Ime i prezime</string>
+    <string name="hint_repeat_password">Ponovite lozinku</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Podešavanja</string>
+
+    <string name="about">O ZOBS</string>
+    <string name="logout">Odjava</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_zobs">ZobsActivity</string>
+
+    <string name="aboutTitle">ZOBS Aplikacija</string>
+    <string name="aboutText">Ova aplikacija namenjena je vozačima kao i ljudima iz saobraćajne struke.
+            Aplikacija na jednostavan način prezentuje važeći Zakon o bezbenosti saobraćaja na putevima.
+            Zakon je podeljen na poglavlja a svaki član se može pogledati nezavisno u vidu proširivog pregleda, što omugućava jednostavan pregled i pronalaženje željenog sadržaja.
+            Sadržaj zakona se može sa lakoćom pretražiti po željenom terminu.
+            Omogućeno je ažuriranje sadržaja ukoliko u međuvremenu dođe do promena u zakonskoj regulativi.
+            \n\nSve sugestije i predloge vezane za ovu aplikaciju možete poslati na neku od email adresa koje se nalaze ispod.
+            \n\n
+
+            VELIKO Hvala!
+            \n
+            <b>Digital Cube</b>
+            \n
+            za pomoći i podršku.
+            \n \n
+
+            <i><b>Andrija Garabinović, developer </b></i>
+            \n
+            andrija@digitalcube.com
+            \n
+            andrijag@gmail.com
+    </string>
+
+</resources>

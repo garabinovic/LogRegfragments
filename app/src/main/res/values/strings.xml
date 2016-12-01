@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ZOBS</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter text for search</string>
+
+    <string name="login_title">Z O B S</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="forgot_pass"><u>forgot password?</u></string>
+    <string name="login">Login</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="registration"><u>Signup here</u></string>
+
+    <string name="fullname">FULLNAME</string>
+    <string name="repeat_password">REPEAT PASSWORD</string>
+    <string name="register">Register</string>
+
+    <string name="send_me_reset_instructions">Send me reset instructions</string>
+    <string name="forgot_instructions">Enter your email address below and we will send you password reset instructions...</string>
+
+    <string name="change_code">RECEIVED CODE</string>
+    <string name="confirm">Confirm</string>
+    <string name="chpass_instructions">Enter your received code and new password below and press Confirm</string>
+    <string name="hint_code">Enter code received on your email</string>
+
+
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_fullname">First Name, Last Name</string>
+    <string name="hint_repeat_password">Repeat password</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_zobs">ZobsActivity</string>
+
+    <string name="aboutTitle">ZOBS Aplikacija</string>
+    <string name="aboutText">Ova aplikacija namenjena je vozačima kao i ljudima iz saobraćajne struke.
+            Aplikacija na jednostavan način prezentuje važeći Zakon o bezbenosti saobraćaja na putevima.
+            Zakon je podeljen na poglavlja a svaki član se može pogledati nezavisno u vidu proširivog pregleda, što omugućava jednostavan pregled i pronalaženje željenog sadržaja.
+            Sadržaj zakona se može sa lakoćom pretražiti po željenom terminu.
+            Omogućeno je ažuriranje sadržaja ukoliko u međuvremenu dođe do promena u zakonskoj regulativi.
+            \n\nSve sugestije i predloge vezane za ovu aplikaciju možete poslati na neku od email adresa koje se nalaze ispod.
+            \n\n
+
+            VELIKO Hvala!
+            \n
+            <b>Digital Cube</b>
+            \n
+            za pomoći i podršku.
+            \n \n
+
+            <i><b>Andrija Garabinović, developer </b></i>
+            \n
+            andrija@digitalcube.com
+            \n
+            andrijag@gmail.com
+    </string>
+
+</resources>
